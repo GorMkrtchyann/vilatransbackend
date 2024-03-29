@@ -5,34 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8513bbc-6f57-4ed6-8d6f-3ea9b93f437a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/controllers/LoginController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/servicesPage/ServiceBanner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/servicesPage/ServiceInfo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/servicesPage/ServiceLeave.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/servicesPage/ServiceSteps.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/servicesPage/ServiceTransport.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/LoginModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/ServiceModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/SingleServiceModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/CalculatorController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/CalculatorController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/ContactController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/ContactController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/HomePageController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/HomePageController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/SingleServiceController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/SingleServiceController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/HomeModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/HomeModel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/PagesModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/PagesModel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/admin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/calculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/calculator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/singleService.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/singleService.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/users.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +59,7 @@
       <workItem from="1711453587644" duration="11000000" />
       <workItem from="1711528245253" duration="15298000" />
       <workItem from="1711610946436" duration="28687000" />
-      <workItem from="1711700164258" duration="324000" />
+      <workItem from="1711700164258" duration="1242000" />
     </task>
     <servers />
   </component>

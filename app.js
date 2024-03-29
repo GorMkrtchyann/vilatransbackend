@@ -19,7 +19,7 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(cors({
-  origin: ["http://localhost:3000", "http://localhost:3001"],
+  origin: ["https://vilatransadmin.vercel.app"],
   methods: ['POST', 'GET', 'PUT', 'DELETE', 'PATCH'],
   credentials: true,
   headers: ['Content-Type', 'Authorization', 'Accept', 'Origin', 'X-Requested-With']
